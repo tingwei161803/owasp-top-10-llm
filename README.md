@@ -2,7 +2,7 @@
 
 > 把 OWASP「大型語言模型應用程式十大風險(2025 年版)」官方文件,整理成一個可瀏覽、可切換語言、可深連結的純靜態網站。
 
-**🔗 線上版:** <https://tingwei161803.github.io/owasp-top-10-llm/>
+**🔗 線上版:** <https://owasp-top-10-llm.peteraim.com/>
 
 本站將 OWASP 官方的 **英文版**與**繁體中文版** PDF(共 87 頁)拆解為 10 條風險,每條獨立一頁,完整保留「描述 / 常見漏洞範例 / 預防與緩解 / 攻擊情境 / 參考連結 / 相關框架」六大面向,中英文一鍵全頁切換。所有參考連結的網址皆**直接從官方 PDF 的超連結逐一比對取出**,非人工臆測。
 
@@ -76,7 +76,7 @@ open index.html
 
 ### 部署
 
-本站已部署於 **GitHub Pages**(由 `main` 分支根目錄提供):<https://tingwei161803.github.io/owasp-top-10-llm/>。整個 repo 也可直接丟到任何靜態主機(Netlify、Cloudflare Pages…)。已內含 `.nojekyll`,放上 GitHub Pages 時不會被 Jekyll 處理。所有資源皆使用相對路徑,放在子路徑(如 `/<repo>/`)也能正常運作。
+本站已部署於 **GitHub Pages**(由 `main` 分支根目錄提供):<https://owasp-top-10-llm.peteraim.com/>。整個 repo 也可直接丟到任何靜態主機(Netlify、Cloudflare Pages…)。已內含 `.nojekyll`,放上 GitHub Pages 時不會被 Jekyll 處理。所有資源皆使用相對路徑,放在子路徑(如 `/<repo>/`)也能正常運作。
 
 ---
 

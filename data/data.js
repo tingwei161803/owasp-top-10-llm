@@ -1,7 +1,7 @@
 /* OWASP Top 10 for LLM Applications 2025 — bilingual data (zh-TW / en).
    Content adapted from the official OWASP document, licensed CC BY-SA 4.0.
    Source: https://genai.owasp.org/llm-top-10/ — unofficial reader, not affiliated with OWASP.
-   Generated for lazy-data2web (multipage). Every visible string is {en,zh}. */
+   Multipage site data. Every visible string is {en,zh}. */
 
 window.SITE_META = {
   "title": {
